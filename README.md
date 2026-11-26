@@ -1,0 +1,1 @@
+# mbaec2IdeaStatica
